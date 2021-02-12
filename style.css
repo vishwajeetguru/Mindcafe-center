@@ -84,6 +84,23 @@ button:hover{
 
 /* ---------------------Hero Section End-------------------- */
 /*--------------------cards-----------------*/
+.cardintro{
+
+position: absolute;
+width: 228px;
+height: 50px;
+left: 606px;
+top: 741px;
+
+font-family: Amaranth;
+font-style: normal;
+font-weight: normal;
+font-size: 47px;
+line-height: 57px;
+text-align: center;
+
+color: #DA231F;
+}
 .card{
     margin-left: 10px;
     margin-bottom: 10px;
