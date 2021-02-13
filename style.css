@@ -102,14 +102,14 @@ color: #DA231F;
     margin-left: 60px;
     margin-bottom: 10px;
     background-color:#f4f4;
-    width: 400px;
+    width: 350px;
     
 }}
 .card-title{
         text-align: center;
 }
 .card .btn{
-  margin-left: 120px;
+  margin-left: 100px;
   margin-top: 20px;
   margin-bottom: 0;
 } 
@@ -118,7 +118,7 @@ color: #DA231F;
   margin-top: 20px;
   } 
   .card .clipart{
-  margin-left: 140px;
+  margin-left: 120px;
   margin-top: 20px;
   } 
 
