@@ -116,7 +116,8 @@ color: #DA231F;
 
   @media (max-width: 768px){
 .card{
-    width: 300px;
+    width: 320px;
+    margin-left: 20px;
     
 }
 .card .clipart{
