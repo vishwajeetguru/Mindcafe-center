@@ -86,8 +86,6 @@ button:hover{
 /*--------------------cards-----------------*/
 .cardintro{
 font-family: Amaranth;
-font-style: normal;
-font-weight: normal;
 font-size: 47px;
 
 color: #DA231F;
@@ -115,6 +113,27 @@ color: #DA231F;
   margin-left: 140px;
   margin-top: 20px;
   } 
+
+  @media (max-width: 768px){
+.card{
+    width: 330px;
+    
+}
+.card .clipart{
+  margin-left: 120px;
+  margin-top: 20px;
+  } 
+
+  .card .btn{
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 0;
+} 
+.cardintro{
+  font-family: Amaranth;
+font-size: 37px;
+}
+}
 /*--------------------cards ends-----------------*/
 /* ---------------------About us-------------------- */
 .bg-1 { 
