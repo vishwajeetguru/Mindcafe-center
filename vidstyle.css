@@ -1,0 +1,61 @@
+/*--------------------cards-----------------*/
+.display-5{
+font-family: Amaranth;
+font-size: 47px;
+
+color: #DA231F;
+}
+.vidcard{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-image: linear-gradient( 135deg, #9f05ff69 10%, #fd5e086b 100%);
+    width: 00px;
+    
+}
+@media (min-width: 992px){
+.vidcard{
+    margin-left: 60px;
+    margin-bottom: 10px;
+    background-color:#f4f4;
+    width: 350px;
+    
+}}
+.card-title{
+        text-align: center;
+}
+.vidcard .btn{
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 0;
+} 
+.vidcard .love{
+  margin-left: 160px;
+  margin-top: 20px;
+  } 
+  .vidcard .clipart1{
+  margin-left: 120px;
+  margin-top: 20px;
+  } 
+
+  @media (max-width: 768px){
+.vidcard{
+    width: 320px;
+    margin-left: 20px;
+    
+}
+.vidcard .clipart1{
+  margin-left: 110px;
+  margin-top: 20px;
+  } 
+
+  .vidcard .btn{
+  margin-left: 90px;
+  margin-top: 20px;
+  margin-bottom: 0;
+} 
+.cardintro{
+  font-family: Amaranth;
+font-size: 37px;
+}
+}
+/*--------------------cards ends-----------------*/
